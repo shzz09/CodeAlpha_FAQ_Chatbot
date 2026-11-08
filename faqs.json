@@ -1,0 +1,99 @@
+
+[
+  {
+    "question": "What is CodeAlpha?",
+    "answer": "CodeAlpha is an organization that provides internship opportunities to students to gain practical experience and develop technical skills."
+  },
+  {
+    "question": "What is the AI internship?",
+    "answer": "The Artificial Intelligence internship provides practical exposure to AI concepts, machine learning techniques, and real-world project development."
+  },
+  {
+    "question": "How many tasks should interns complete?",
+    "answer": "Interns must complete at least two tasks out of the four available tasks to become eligible for the internship certificate."
+  },
+  {
+    "question": "What is an FAQ chatbot?",
+    "answer": "An FAQ chatbot is an AI-based application that automatically answers frequently asked questions by finding the most relevant answer from a predefined dataset."
+  },
+  {
+    "question": "What is Natural Language Processing?",
+    "answer": "Natural Language Processing, or NLP, is a branch of Artificial Intelligence that enables computers to understand and process human language."
+  },
+  {
+    "question": "What is text preprocessing?",
+    "answer": "Text preprocessing is the process of cleaning and preparing text before analysis. It includes lowercasing, tokenization, removing unnecessary words, and stemming."
+  },
+  {
+    "question": "What is tokenization?",
+    "answer": "Tokenization is the process of splitting a sentence into smaller units called tokens, such as individual words."
+  },
+  {
+    "question": "What is stemming?",
+    "answer": "Stemming reduces words to their root form. For example, playing and played can be reduced to play."
+  },
+  {
+    "question": "What is NLTK?",
+    "answer": "NLTK stands for Natural Language Toolkit. It is a Python library used for natural language processing tasks such as tokenization and stemming."
+  },
+  {
+    "question": "What is TF-IDF?",
+    "answer": "TF-IDF stands for Term Frequency-Inverse Document Frequency. It converts text into numerical features based on the importance of words."
+  },
+  {
+    "question": "What is cosine similarity?",
+    "answer": "Cosine similarity measures how similar two text vectors are by calculating the cosine of the angle between them. A higher score indicates greater similarity."
+  },
+  {
+    "question": "How does the chatbot find answers?",
+    "answer": "The chatbot preprocesses the user's question, converts it into a TF-IDF vector, compares it with stored FAQ questions using cosine similarity, and returns the answer with the highest similarity."
+  },
+  {
+    "question": "What happens if the chatbot does not understand a question?",
+    "answer": "If the similarity score is below the minimum threshold, the chatbot displays a fallback message asking the user to rephrase the question."
+  },
+  {
+    "question": "What is Streamlit?",
+    "answer": "Streamlit is a Python framework used to build interactive web applications quickly, especially for data science and machine learning projects."
+  },
+  {
+    "question": "What is machine learning?",
+    "answer": "Machine learning is a branch of Artificial Intelligence that enables computers to learn patterns from data and make predictions or decisions."
+  },
+  {
+    "question": "How can I upload my project to GitHub?",
+    "answer": "Create a GitHub repository, initialize Git in your project folder, add your project files, commit the changes, and push them to the remote repository."
+  },
+  {
+    "question": "How do I submit my internship project?",
+    "answer": "Follow the submission instructions shared by CodeAlpha. Submit your GitHub repository link and other requested details through the specified submission form."
+  },
+  {
+    "question": "Why is a LinkedIn video required?",
+    "answer": "A LinkedIn demonstration video helps showcase your completed project, explain its functionality, and share your practical internship experience."
+  },
+  {
+    "question": "What is the purpose of an AI FAQ chatbot?",
+    "answer": "An AI FAQ chatbot provides quick automated responses to common questions, reduces repetitive manual work, and improves access to information."
+  },
+  {
+    "question": "What is NLP?",
+    "answer": "NLP stands for Natural Language Processing. It is a branch of Artificial Intelligence that enables computers to understand, interpret, and process human languages."
+},
+{
+    "question": "Explain NLP.",
+    "answer": "NLP stands for Natural Language Processing. It helps computers understand and process human language."
+},
+{
+    "question": "What is Natural Language Processing?",
+    "answer": "Natural Language Processing is a branch of AI that enables computers to understand and interpret human language."
+},
+{
+    "question": "Define NLP.",
+    "answer": "NLP is a technology that allows computers to understand, analyze, and respond to human language."
+},
+{
+    "question": "What is Artificial Intelligence?",
+    "answer": "Artificial Intelligence (AI) is a branch of computer science that enables machines to perform tasks that normally require human intelligence, such as learning, reasoning, problem-solving, and decision-making."
+}
+]
